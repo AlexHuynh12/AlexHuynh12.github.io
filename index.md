@@ -16,9 +16,10 @@ My Github page is [AlexHuynh12](https://github.com/alexhuynh12).
 *[Lab 8 Part 2](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-08-alex-huynh-and-kira-g).
   
   This code was fun to do because it had to deal with needing to type in error messages and secret messages as well as the file names. I also got to work 
-  with std::getline and learned a lot about coding. 
+ with std::getline and learned a lot about coding. 
   
 *[Lab 2 Part 1](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-02-AlexHuynh12).
 
   This lab was my favorite not because it was easy but because it was marked as my first ever code that I have done and I think this can be said to 
-  everyone with them having std::cout Hello world as their first ever code. 
+ everyone with them having std::cout Hello world as their first ever code. 
+ ```
