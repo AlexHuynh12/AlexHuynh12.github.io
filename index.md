@@ -4,7 +4,7 @@ My name is Alex Huynh and I am a student at [Cal State Fullerton](http://www.ful
 
     ## Computer Science Projects
 
-    My GitHub page is http://github.com/AlexHuynh12.
+    My GitHub page is [Alexhuynh12](http://github.com/AlexHuynh12).
 
     ### CPSC 120
 
